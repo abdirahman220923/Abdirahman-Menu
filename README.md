@@ -22,3 +22,7 @@ Ce code a été inspiré et adapté à partir d'une solution fournie par **DeepS
 
 ## Licence
 Ce projet est open-source et disponible sous la licence MIT. N'hésitez pas à l'utiliser et à le modifier selon vos besoins.
+
+## Auteur
+Abdirahman  
+Inspiré par **DeepSeek**.
